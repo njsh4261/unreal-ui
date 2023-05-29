@@ -19,4 +19,4 @@ Unreal Engine 5에서 UI를 구성하고 기능을 구현한 예시 프로젝트
 
 
 # 예시 영상
-
+https://github.com/njsh4261/unreal-ui/assets/54832818/886d0bc7-5995-4c62-9641-25d9fa149151
